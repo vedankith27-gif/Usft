@@ -1,6 +1,6 @@
 USFT — Unified Substrate Field Theory
 The Cyrillic Theory of Everything — At Least For Our Era
-Built independently by Vedankith (CSK), age 13, from Macherla, Andhra Pradesh, India.
+Built independently by Vedankith 
 What is USFT?
 USFT proposes that both Quantum Mechanics and General Relativity emerge as coarse-grained statistics of a quantized substrate field Щ propagating through a fiber bundle above four-dimensional spacetime.
 Current Status — v6.0
